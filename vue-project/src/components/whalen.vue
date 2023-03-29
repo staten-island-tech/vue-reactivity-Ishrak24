@@ -1,7 +1,8 @@
 <template>
-  <h1 id="heading">Whalen's in the Closet</h1>
+  <h1 id="heading">Whalen in the Closet</h1>
   <div id="box">
     <div id="backdrop">
+      <div id="girl"></div>
       <div id="hair"></div>
       <div id="dress"></div>
     </div>

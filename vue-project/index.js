@@ -5,6 +5,7 @@ let state = {
 
 nextdress();
 nexthair();
+
 function nextdress() {
   let dress = document.querySelector("#dress");
 
@@ -16,6 +17,7 @@ function nextdress() {
     dress.setAttribute("class", `dress${state.dress}`);
   }
 }
+
 function nexthair() {
   let hair = document.querySelector("#hair");
   if (state.hair < 7) {
