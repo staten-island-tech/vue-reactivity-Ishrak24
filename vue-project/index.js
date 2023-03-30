@@ -9,10 +9,10 @@ nexthair();
 function nextdress() {
   let dress = document.querySelector("#dress");
 
-  if (state.dress < 6) {
+  if (state.dress < 7) {
     state.dress++;
     dress.setAttribute("class", `dress${state.dress}`);
-  } else if (state.dress === 6) {
+  } else if (state.dress === 7) {
     state.dress = 0;
     dress.setAttribute("class", `dress${state.dress}`);
   }

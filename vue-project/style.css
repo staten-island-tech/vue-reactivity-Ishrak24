@@ -50,7 +50,8 @@ body {
   top: 1em;
   margin: auto;
   position: relative;
-  background-color: rgb(246, 240, 255);
+  background-image: url(https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71enGfet2pL._AC_SX679_.jpg);
+  background-size: cover;
   border-radius: 20px;
   height: 320px;
   width: 320px;
@@ -85,8 +86,7 @@ button:hover {
 }
 
 #whalen {
-  background-image: url("Body.png");
-  background-repeat: no-repeat;
+  background-image: url("media/WhalenMichael-removebg-preview.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -102,16 +102,8 @@ button:hover {
   z-index: 6;
 }
 
-#hair {
-  background-repeat: no-repeat;
-  position: absolute;
-  height: 320px;
-  width: 320px;
-  z-index: 2;
-}
-
 .dress0 {
-  background-image: url("Shirt 1.png");
+  background-image: url("media/Shirt 1.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -120,7 +112,7 @@ button:hover {
 }
 
 .dress1 {
-  background-image: url("Shirt 2.png");
+  background-image: url("media/Shirt 2.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -129,7 +121,7 @@ button:hover {
 }
 
 .dress2 {
-  background-image: url("Shirt 3.png");
+  background-image: url("media/Shirt 3.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -138,7 +130,7 @@ button:hover {
 }
 
 .dress3 {
-  background-image: url("Shirt 4.png");
+  background-image: url("media/Shirt 4.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -147,7 +139,7 @@ button:hover {
 }
 
 .dress4 {
-  background-image: url("Shirt 5.png");
+  background-image: url("media/Shirt 5.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -156,7 +148,7 @@ button:hover {
 }
 
 .dress5 {
-  background-image: url("Shirt 6.png");
+  background-image: url("media/Shirt 6.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -165,7 +157,7 @@ button:hover {
 }
 
 .dress6 {
-  background-image: url("Shirt 7.png");
+  background-image: url("media/Shirt 7.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -173,8 +165,25 @@ button:hover {
   z-index: 4;
 }
 
+.dress7 {
+  background-image: url("media/Body.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 320px;
+  width: 320px;
+  z-index: 4;
+}
+
+#hair {
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 320px;
+  width: 320px;
+  z-index: 2;
+}
+
 .hair0 {
-  background-image: url("hair 1.png");
+  background-image: url("media/hair 1.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -182,7 +191,7 @@ button:hover {
 }
 
 .hair1 {
-  background-image: url("hair 2.png");
+  background-image: url("media/hair 2.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -190,7 +199,7 @@ button:hover {
 }
 
 .hair2 {
-  background-image: url("hair 3.png");
+  background-image: url("media/hair 3.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -198,7 +207,7 @@ button:hover {
 }
 
 .hair3 {
-  background-image: url("hair 4.png");
+  background-image: url("media/hair 4.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -206,7 +215,7 @@ button:hover {
 }
 
 .hair4 {
-  background-image: url("hair 5.png");
+  background-image: url("media/hair 5.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -214,7 +223,7 @@ button:hover {
 }
 
 .hair5 {
-  background-image: url("hair 6.png");
+  background-image: url("media/hair 6.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -222,7 +231,7 @@ button:hover {
 }
 
 .hair6 {
-  background-image: url("hair 7.png");
+  background-image: url("media/hair 7.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -230,7 +239,7 @@ button:hover {
 }
 
 .hair7 {
-  background-image: url("hair 8.png");
+  background-image: url("media/hair 8.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
