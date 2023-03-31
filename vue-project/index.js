@@ -20,6 +20,7 @@ function nextdress() {
 
 function nexthair() {
   let hair = document.querySelector("#hair");
+
   if (state.hair < 7) {
     state.hair++;
     hair.setAttribute("class", `hair${state.hair}`);
