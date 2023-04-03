@@ -99,7 +99,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
-  z-index: 6;
+  z-index: 4;
 }
 
 .dress0 {
@@ -179,7 +179,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
-  z-index: 2;
+  z-index: 6;
 }
 
 .hair0 {
@@ -188,14 +188,16 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair1 {
-  background-image: url("media/hair 2.png");
+  background-image: url("media/hair 9.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair2 {
@@ -204,6 +206,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair3 {
@@ -212,6 +215,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair4 {
@@ -220,6 +224,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair5 {
@@ -228,6 +233,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair6 {
@@ -236,6 +242,7 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
 }
 
 .hair7 {
@@ -244,4 +251,14 @@ button:hover {
   position: absolute;
   height: 320px;
   width: 320px;
+  z-index: 6;
+}
+
+.hair8 {
+  background-image: url("media/hair 2.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 320px;
+  width: 320px;
+  z-index: 6;
 }
