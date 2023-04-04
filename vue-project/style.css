@@ -103,7 +103,7 @@ button:hover {
 }
 
 .dress0 {
-  background-image: url("media/Shirt 1.png");
+  background-image: url("media/Shirt 2.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -112,7 +112,7 @@ button:hover {
 }
 
 .dress1 {
-  background-image: url("media/Shirt 2.png");
+  background-image: url("media/hair 9.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
@@ -167,6 +167,15 @@ button:hover {
 
 .dress7 {
   background-image: url("media/Body.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 320px;
+  width: 320px;
+  z-index: 4;
+}
+
+.dress8 {
+  background-image: url("media/Shirt 1.png");
   background-repeat: no-repeat;
   position: absolute;
   height: 320px;
