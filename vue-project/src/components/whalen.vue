@@ -1,5 +1,3 @@
-import { hair } from 'hair.vue'; import { dress } from 'dress.vue';
-
 <template>
   <h1 id="heading">Whalen in the Closet</h1>
   <div id="box">
